@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mheedayOL
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m a cybersecurity professional
+- 🌱 I’m currently learning security operations center
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 
+- 📫 How to reach me : mhorlagunju@gmail.com
 
 <!---
 mheedayOL/mheedayOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
